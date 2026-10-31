@@ -17,7 +17,7 @@
 
 ---
 > [!WARNING]
-> 自 1.1.0 起，HiNotes更换许可证为 GPL-3.0。词仓库用于保存许可证为 Apache-2.0 的版本。[新仓库](https://github.com/outice2025/HiNotes)
+> 自 1.1.0 起，HiNotes更换许可证为 GPL-3.0。此仓库用于保存许可证为 Apache-2.0 的版本。[新仓库](https://github.com/outice2025/HiNotes)
 
 > [!IMPORTANT]
 > 由于个人精力有限，暂时不接受 `Issue` 和 `Pull Request`。
