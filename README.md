@@ -16,9 +16,8 @@ English - [简体中文](README.zh-CN.md)
 </div>
 
 ---
->[!WARING]
->Since 1.1.0, HiNotes has changed its license to GPL-3.0. This repository is used to preserve versions licensed under Apache-2.0.
->[GPL-3.0 Version](https://github.com/outice2025/HiNotes)
+> [!WARNING]
+> Since 1.1.0, HiNotes has changed its license to GPL-3.0. This repository is used to preserve versions licensed under Apache-2.0.[GPL-3.0 Version](https://github.com/outice2025/HiNotes)
 
 > [!IMPORTANT]
 > Due to limited personal capacity, I am temporarily not accepting `Issues` or `Pull Request`.
