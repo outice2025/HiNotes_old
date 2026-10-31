@@ -16,9 +16,12 @@ English - [简体中文](README.zh-CN.md)
 </div>
 
 ---
->[!IMPORTANT]
+>[!WARING]
 >Since 1.1.0, HiNotes has changed its license to GPL-3.0. This repository is used to preserve versions licensed under Apache-2.0.
 >[GPL-3.0 Version](https://github.com/outice2025/HiNotes)
+
+> [!IMPORTANT]
+> Due to limited personal capacity, I am temporarily not accepting `Issues` or `Pull Request`.
 ---
 
 <details>
@@ -44,11 +47,11 @@ Notes and app settings are stored locally; the app does not request the INTERNET
 - Create, edit, and delete notes.
 - Search notes by title and body on the Home screen.
 - Sort notes by last modified, creation time, or title on the Home screen.
-- Display notes in single- or two-column lists on the Home screen.
+- Display notes in single or two-column lists on the Home screen.
 - Long-press notes on the Home screen for batch operations.
 - Write notes in Markdown.
 - Import and display images in notes.
-- Export notes as .md or .txt.
+- Export notes as `.md` or `.txt`.
 - Lock and pin notes.
 
 **Widgets**
